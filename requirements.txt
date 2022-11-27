@@ -1,0 +1,4 @@
+aiogram
+babel
+Pillow
+colorgram
