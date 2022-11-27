@@ -35,6 +35,8 @@
 
 ![Screen Shot](images/screenshot.png)
 
+**guys who are reading this, please put an asterisk (star) :)**
+
 There are a lot of repositories on GitHub, but I didn't find a bot convenient for me. So I decided to make and improve the code for other programmers. Subsequently, this bot will be needed for artists who want to see the primary colors.
 
 Of course, I will improve and support this bot. You can help me by writing to me and I will give you my banking details. You can also open a new branch and send a request under an error or an open question.
